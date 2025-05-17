@@ -255,9 +255,8 @@ def get_action(h, w, yellow_lane, white_lane):
 
 改进算法有PID小车：throttle = *max*(0.5, 0.63 * (1 - *abs*(steering)))，转向越大，速度越低，最低速度0.5
 
-视频
+视频链接：https://www.bilibili.com/video/BV1XNJPzPEfx/
 
-<video src="./image/原VS改进.mp4"></video>
 
 
 
