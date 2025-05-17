@@ -54,7 +54,7 @@ OpenCV中已经集成了Canny算法，直接用就行，将上一步得到的区
 
 对黄色区域只保留左下部分，对白色区域只保留右下部分，最后组合为一张图片
 
-![roi_img](D:/schoolwork/Donkeycar/forgithub/基于OpenCV的自动驾驶算法改进/image/roi_img.jpg)
+![roi_img](./image/roi_img.jpg)
 
 ### ⑤	基于霍夫变换的线段检测
 
