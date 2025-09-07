@@ -146,7 +146,7 @@ PID 是比例（Proportional）、积分（Integral）、微分（Derivative）�
 ![pid](./image/pid.png)
 
 - **error** 是当前帧的偏差角（弧度制）
-- **integral** 是误差累加，长期偏离会增加修正力度
+- **integral** 是误差累加，长期偏离要增加修正力度
 - **derivative** 是误差变化率，控制“加速度”，防止过冲和震荡
 
 #### 2. 参数调节策略
